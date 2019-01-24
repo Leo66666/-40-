@@ -1,17 +1,18 @@
-# my-project
+# my-project 习近平改革开放40周年讲话
 
-## Project setup
+## 下载所有依赖包
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 开启本地构建
 ```
 npm run serve
 ```
 
-###习近平改革开放40周年讲话
-使用vuejsonp 进行ajax请求
+### 习近平改革开放40周年讲话
 
-使用swiper进行屏幕滚动切换
+技术要点：
+  使用vuejsonp 进行ajax请求
+  使用swiper进行屏幕滚动切换
 
