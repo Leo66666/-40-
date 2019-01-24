@@ -1,0 +1,33 @@
+/*
+    主要样式
+*/
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body,#app,.swiper-container,.swiper-container>div{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.bg{
+    background: url(../images/bg.jpg)no-repeat center/cover;
+    position: relative;
+}
+.bg-box{
+    width: 95%;
+    height: 96%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin:auto;
+    animation-duration: 2s
+}
+.bg-bot{
+    width: 100%;
+    position: absolute;
+    bottom:3%
+}
+
